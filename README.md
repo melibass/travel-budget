@@ -22,7 +22,6 @@ Home <br>
 Adding expenses<br>
 
 <img src="https://i.ibb.co/p2mKQKp/1expense.png"> <br>
-<img src="https://i.ibb.co/M20bZM7/2expenses.png">
 
 
 ### **Test it!** :rocket:
@@ -53,8 +52,6 @@ Home <br>
 Adding expenses<br>
 
 <img src="https://i.ibb.co/p2mKQKp/1expense.png"> <br>
-<img src="https://i.ibb.co/M20bZM7/2expenses.png">
-
 
 
 
