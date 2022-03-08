@@ -26,7 +26,7 @@ Adding expenses<br>
 
 ### **Test it!** :rocket:
 
-https://naughty-fermi-92498f.netlify.app/
+https://mytravelbudget.netlify.app/
 
 # **App para manejar presupuestos** 
 
@@ -58,4 +58,4 @@ Adding expenses<br>
 ### **Probalo!** :rocket:
 
 
-https://naughty-fermi-92498f.netlify.app/
+https://mytravelbudget.netlify.app/
